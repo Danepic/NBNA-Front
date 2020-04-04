@@ -2,6 +2,11 @@
 
 Site do jogo Naruto to Boruto: New Age.
 
+### Stack
+ - Angular
+ - Firebase
+ - Node
+
 ### Configurations
 
 ### Run Application
@@ -13,7 +18,7 @@ Node v12.16.1
 N/A
 
 #### External Services:
-N/A
+ - NBNA-API (Heroku)
  
 #### Environment:
 N/A
