@@ -1,6 +1,8 @@
 # NBNA Front
 
-Site do jogo Naruto to Boruto: New Age.
+Site do jogo fanmade Naruto to Boruto: New Age, seguindo os exemplos de sites como:
+ - https://www.narutoslugfestm.com/en/
+ - https://naruto-blazing.net/en/
 
 ### Stack
  - Angular
