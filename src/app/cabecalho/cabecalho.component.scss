@@ -5,3 +5,39 @@
     top: 0;
     width: 100%;
 }
+
+.redes-sociais{
+    margin-left: 1%
+}
+
+.linguagens{
+    margin-right: 1%
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+    background-image: linear-gradient( to bottom, transparent 20%, white 20%, white 93%, transparent 93% );
+    background-size: 55%;
+    background-position: 70% 0;
+    background-repeat: no-repeat;
+}
+
+.fa-youtube {
+    color:#c4302b;
+    background-size: 55%;
+    background-position: 70% 0;
+    background-repeat: no-repeat;
+}
+
+.conteudo {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.direita {
+    float: right;
+}
+
+.github-link {
+    color: black;
+}

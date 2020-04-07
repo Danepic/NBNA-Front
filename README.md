@@ -8,6 +8,9 @@ Site do jogo fanmade Naruto to Boruto: New Age, seguindo os exemplos de sites co
  - Angular
  - Firebase
  - Node
+ - NPM
+ - Font Awesome
+ - Materialize CSS
 
 ### Configurations
 
