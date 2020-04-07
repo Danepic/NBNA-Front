@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NBNA-Front"
+    }
+  },
+  "defaultProject": "NBNA-Front",
+  "cli": {
+    "analytics": "3faf3ded-54da-40e9-b883-cdc25c3f6829"
+  }
 }
